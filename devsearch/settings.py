@@ -177,6 +177,7 @@ USE_TZ = True
 # EMAIL_PORT = 587
 # EMAIL_USE_TLS = True
 # EMAIL_HOST_USER = 'vivekvaghasiyawork@gmail.com'
+# EMAIL_HOST_USER = 'devagnmaniya611@gmail.com'
 # EMAIL_HOST_PASSWORD = ''
 
 
